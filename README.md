@@ -15,7 +15,7 @@
 
 ## Binance Bincoin Exchange historical trading data
 
-This repository present the data for all Binance symbols from the beginning of the trading till **the end of February 2018**. 
+This repository presents the data for all Binance symbols from the beginning of the trading till **the end of February 2018**. 
 
 ### Data format
 
