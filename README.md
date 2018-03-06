@@ -27,7 +27,7 @@ $ tar -xjf SYMBOL.dat.tar.bz2
 
 Trades are stored in binary format, sorted by trade id in ascending order:
 
-```
+```cpp
 struct Trade
 {
 	double price;
@@ -43,7 +43,7 @@ Library for accessing Binance Bincoin Exchange using web sockets and JSON.
 
 The following code snippet demonstrates how to read the sequence of trades from the data file:
 
-```
+```cpp
 ifstream history("SYMBOL.dat", ifstream::binary);
 if (history.is_open())
 {
