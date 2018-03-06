@@ -93,6 +93,6 @@ if (history.is_open())
 
 This data has been collected through the [Binance Public API](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md) using the [bihistorian](https://github.com/dmikushin/bitrader) tool.
 
-###Liability
+### Liability
 
 Use this program at your own risk. None of the contributors to this project are liable for any loses you may incur. Be wise and always do your own research.
